@@ -65,6 +65,7 @@ The snapshot filtertypes are:
 
 * <<filtertype_age,age>>
 * <<filtertype_pattern,pattern>>
+* <<filtertype_state,state>>
 
 
 [[filtertype_allocated]]
