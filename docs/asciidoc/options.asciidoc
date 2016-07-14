@@ -275,8 +275,8 @@ There is no default value.
 [[option_repository]]
 == repository
 
-NOTE: This setting is only used by the <<snapshot, snapshot>>, and
-    <<delete_snapshots, delete snapshots>> actions.
+NOTE: This setting is only used by the <<delete_snapshots>>, <<restore, restore>>, 
+    and <<snapshot, snapshot>> actions.
 
 There is no default value. This setting must be set by the user or an exception
 will be raised, and execution will halt.
